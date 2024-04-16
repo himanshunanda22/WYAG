@@ -1,4 +1,4 @@
-# Wyag (Write Your Awesome Git)
+# WYAG (Write Your Awesome Git)
 
 Wyag is a Python3-based Git implementation, designed to help you understand the inner workings of Git by writing your own Git-like tool.
 
